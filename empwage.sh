@@ -1,6 +1,5 @@
 #!/bin/bash -x
 
-
 dailyWagePerHrs=20
 numOfDays=20
 isFullTime=2
